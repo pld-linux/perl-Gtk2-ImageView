@@ -14,8 +14,8 @@ URL:		http://trac.bjourne.webfactional.com/
 BuildRequires:	gtkimageview-devel >= 1.6.0
 BuildRequires:	perl-ExtUtils-Depends >= 0.2
 BuildRequires:	perl-ExtUtils-PkgConfig >= 1.03
-BuildRequires:	perl-Glib >= 1.140
-BuildRequires:	perl-Gtk2 >= 1.140
+BuildRequires:	perl-Glib-devel >= 1.140
+BuildRequires:	perl-Gtk2-devel >= 1.140
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 Requires:	gtkimageview >= 1.6.0
