@@ -65,6 +65,5 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/Gtk2/ImageView/Install
 %dir %{perl_vendorarch}/auto/Gtk2/ImageView
 %attr(755,root,root) %{perl_vendorarch}/auto/Gtk2/ImageView/ImageView.so
-%{perl_vendorarch}/auto/Gtk2/ImageView/ImageView.bs
 %{_mandir}/man3/Gtk2::Gdk::Pixbuf::Draw::Cache.3pm*
 %{_mandir}/man3/Gtk2::ImageView*.3pm*
