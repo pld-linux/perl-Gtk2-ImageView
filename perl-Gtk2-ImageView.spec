@@ -5,7 +5,7 @@ Summary:	Gtk2::ImageView - Perl bindings to the GtkImageView image viewer widget
 Summary(pl.UTF-8):	Gtk2::ImageView - wiązania Perla do widgetu przeglądarki obrazów GtkImageView
 Name:		perl-Gtk2-ImageView
 Version:	0.05
-Release:	6
+Release:	7
 License:	LGPL v3+
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Gtk2/%{pdir}-%{pnam}-%{version}.tar.gz
