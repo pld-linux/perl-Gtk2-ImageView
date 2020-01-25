@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Gtk2
 %define		pnam	ImageView
 Summary:	Gtk2::ImageView - Perl bindings to the GtkImageView image viewer widget
